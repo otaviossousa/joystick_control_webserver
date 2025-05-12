@@ -73,28 +73,28 @@ cmake --build .
 Abaixo estão exemplos das direções exibidas no servidor web, com base na posição do joystick:
 
 ### **Centro**
-<img src="assets/img/joystick-pos-centro.png" alt="Joystick no Centro" width="400">
+<img src="assets/img/joystick-pos-centro.png" alt="Joystick no Centro" width="800">
 
 ### **Norte**
-<img src="assets/img/joystick-pos-norte.png" alt="Joystick no Norte" width="400">
+<img src="assets/img/joystick-pos-norte.png" alt="Joystick no Norte" width="800">
 
 ### **Leste**
-<img src="assets/img/joystick-pos-leste.png" alt="Joystick no Leste" width="400">
+<img src="assets/img/joystick-pos-leste.png" alt="Joystick no Leste" width="800">
 
 ### **Sul**
-<img src="assets/img/joystick-pos-sul.png" alt="Joystick no Sul" width="400">
+<img src="assets/img/joystick-pos-sul.png" alt="Joystick no Sul" width="800">
 
 ### **Oeste**
-<img src="assets/img/joystick-pos-oeste.png" alt="Joystick no Oeste" width="400">
+<img src="assets/img/joystick-pos-oeste.png" alt="Joystick no Oeste" width="800">
 
 ### **Nordeste**
-<img src="assets/img/joystick-pos-nordeste.png" alt="Joystick no Nordeste" width="400">
+<img src="assets/img/joystick-pos-nordeste.png" alt="Joystick no Nordeste" width="800">
 
 ### **Sudeste**
-<img src="assets/img/joystick-pos-sudeste.png" alt="Joystick no Sudeste" width="400">
+<img src="assets/img/joystick-pos-sudeste.png" alt="Joystick no Sudeste" width="800">
 
 ### **Noroeste**
-<img src="assets/img/joystick-pos-noroeste.png" alt="Joystick no Noroeste" width="400">
+<img src="assets/img/joystick-pos-noroeste.png" alt="Joystick no Noroeste" width="800">
 
 ### **Sudoeste**
-<img src="assets/img/joystick-pos-sudoeste.png" alt="Joystick no Sudoeste" width="400">
+<img src="assets/img/joystick-pos-sudoeste.png" alt="Joystick no Sudoeste" width="800">
