@@ -1,6 +1,7 @@
 # **Monitoramento do Joystick com Servidor Web**
 
-Este projeto implementa um sistema para monitorar a posição de um joystick analógico conectado à placa **BitDogLab**. Os dados das coordenadas X e Y do joystick são enviados em tempo real para um servidor web via Wi-Fi, permitindo a visualização das informações em um navegador. Além disso, o sistema interpreta as coordenadas para determinar a direção correspondente em uma rosa dos ventos imaginária.
+#### Este projeto implementa um sistema para monitorar a posição de um joystick analógico conectado à placa **BitDogLab**. Os dados das coordenadas X e Y do joystick são enviados em tempo real para um servidor web via Wi-Fi, permitindo a visualização das informações em um navegador. Além disso, o sistema interpreta as coordenadas para determinar a direção correspondente em uma rosa dos ventos imaginária.
+
 ---
 
 ## **Funcionalidades**
